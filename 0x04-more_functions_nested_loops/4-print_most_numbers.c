@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* print_most_numbers - check the code for Holberton School students.
+* print_most_numbers - prints.
 *
 * Return: Always 0.
 */
