@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* more_numbers - check the code for Holberton School students.
+* more_numbers - prints more numbers
 *
 * Return: Always 0.
 */
