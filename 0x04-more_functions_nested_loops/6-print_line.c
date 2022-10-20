@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* print_line - check the code for Holberton School students.
+* print_line - prints line
 * @n: Number of lines wanted
 * Return: Always 0.
 */
