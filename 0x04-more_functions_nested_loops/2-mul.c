@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
-* mul - check the code for Holberton School students.
+* mul - multplys
 * @a: First integer
 * @b: Second integer
 * Return: Always 0.
