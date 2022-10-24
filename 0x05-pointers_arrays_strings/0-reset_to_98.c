@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 /**
 * reset_to_98 - Resets to 98.
 * n : n is the pointer that shld return value 98
