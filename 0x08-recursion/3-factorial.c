@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* factorial - check the code for Holberton School students.
+* factorial - returns factorial of given number.
 * @n: number of factorial
 * Return: Always 0.
 */
