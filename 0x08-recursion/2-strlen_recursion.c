@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* _strlen_recursion - check the code for Holberton School students.
+* _strlen_recursion - string length.
 * @s: character of string
 * Return: Always 0.
 */
