@@ -7,7 +7,7 @@
 *
 * Return: void
 */
-void _print(char *str, int l)
+void print(char *str, int l)
 {
 	int i, j;
 
@@ -137,6 +137,6 @@ int main(int argc, char *argv[])
 			exit(98);
 		}
 	}
-	_print(a, ln - 1);
+	print(a, ln - 1);
 	return (0);
 }
