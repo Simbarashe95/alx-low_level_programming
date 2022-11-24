@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include "lists.h"
 /**
-* print_list - check the code for Holberton School students.
+* print_list - prints lists.
 * @h: name of the list
 * Return: the number of nodes.
 */
